@@ -41,6 +41,10 @@ Este projeto foi desenvolvido como parte do **Projeto Integrador do curso Java F
 - Atualizar cadastro
 - Excluir cliente
 
+🚧 Em desenvolvimento
+
+### Próximas funcionalidades
+
 ### 🎮 Produtos
 
 - Cadastrar jogos
