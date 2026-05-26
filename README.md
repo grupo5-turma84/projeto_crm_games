@@ -33,36 +33,48 @@ Este projeto foi desenvolvido como parte do **Projeto Integrador do curso Java F
 
 ## ⚙️ Funcionalidades
 
-### 👤 Clientes
+### 👤 Gestão de Clientes
 
-- Cadastrar cliente
-- Buscar cliente por ID
-- Listar clientes
-- Atualizar cadastro
-- Excluir cliente
+- ✅ Cadastrar clientes
+- ✅ Consultar cliente por ID
+- ✅ Listar todos os clientes
+- ✅ Atualizar informações cadastrais
+- ✅ Excluir clientes
+- ✅ Pesquisa de clientes por nome
 
-🚧 Em desenvolvimento
+---
 
-### Próximas funcionalidades
+## 🚧 Funcionalidades em Desenvolvimento
 
-### 🎮 Produtos
+### 🎮 Gestão de Produtos
 
-- Cadastrar jogos
-- Consultar catálogo
-- Atualizar informações
-- Remover produtos
+- ⏳ Cadastro de jogos e produtos
+- ⏳ Consulta de catálogo
+- ⏳ Atualização de informações e preços
+- ⏳ Controle de estoque
+- ⏳ Remoção de produtos
 
-### 📞 Atendimentos
+### 📞 Gestão de Atendimentos
 
-- Registrar atendimento
-- Histórico de interações
-- Consultar atendimentos por cliente
+- ⏳ Registro de atendimentos
+- ⏳ Histórico de interações com clientes
+- ⏳ Consulta de atendimentos por cliente
+- ⏳ Acompanhamento de solicitações
 
-### 🛒 Compras
+### 🛒 Gestão de Compras
 
-- Registrar compras
-- Consultar histórico de compras
-- Relacionar cliente e produto
+- ⏳ Registro de compras
+- ⏳ Histórico de compras dos clientes
+- ⏳ Associação entre clientes e produtos
+- ⏳ Controle de valor total das compras
+
+### 🔐 Recursos Futuros
+
+- ⏳ Autenticação e autorização de usuários
+- ⏳ Dashboard gerencial
+- ⏳ Relatórios de vendas
+- ⏳ Sistema de avaliações e feedbacks
+- ⏳ Integração com Frontend
 
 ---
 
