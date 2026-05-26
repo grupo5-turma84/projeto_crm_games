@@ -244,21 +244,31 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos de:
 
 ---
 
-## 👨‍💻 Desenvolvedores
+## 👨‍💻 Equipe de Desenvolvimento
 
-### Fernando Garcia
-### Iohana Maria
-### Jackeline Pessoa
-### Kaua Alves
-### Milena Fernandes
-### Vitoria Neris
+### 🎯 Projeto desenvolvido por
 
-🐙 GitHub:
-https://github.com/nandogarciadev
-https://github.com/kauaalves7163-collab
-https://github.com/Iohana03
-https://github.com/MiFlow8
-https://github.com/carolinaneris-collab
+- **Fernando Garcia**  
+  🔗 https://github.com/nandogarciadev
+
+- **Iohana Maria**  
+  🔗 https://github.com/Iohana03
+
+- **Jackeline Pessoa**  
+  🔗 GitHub em atualização
+
+- **Kaua Alves**  
+  🔗 https://github.com/kauaalves7163-collab
+
+- **Milena Fernandes**  
+  🔗 https://github.com/MiFlow8
+
+- **Vitória Neris**  
+  🔗 https://github.com/carolinaneris-collab
+
+---
+
+💡 Desenvolvido como Projeto Integrador do programa **Generation Brasil - Java Full Stack**, aplicando conceitos de Programação Orientada a Objetos, APIs REST, Spring Boot, JPA/Hibernate, MySQL e versionamento com Git.
 
 ---
 
