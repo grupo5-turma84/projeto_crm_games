@@ -255,7 +255,7 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos de:
   🔗 https://github.com/Iohana03
 
 - **Jackeline Pessoa**  
-  🔗 GitHub em atualização
+  🔗 https://github.com/jackeline5458
 
 - **Kaua Alves**  
   🔗 https://github.com/kauaalves7163-collab
