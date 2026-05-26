@@ -105,43 +105,16 @@ src/main/java
 
 ## 🗄️ Modelo de Dados
 
-### Cliente
+### Usuários
 
 | Campo | Tipo |
 |---------|---------|
 | id | Long |
 | nome | String |
 | email | String |
-| telefone | String |
-| dataCadastro | LocalDate |
-
-### Produto
-
-| Campo | Tipo |
-|---------|---------|
-| id | Long |
-| nome | String |
-| categoria | String |
-| preco | BigDecimal |
-| estoque | Integer |
-
-### Atendimento
-
-| Campo | Tipo |
-|---------|---------|
-| id | Long |
-| descricao | String |
-| data | LocalDate |
-| cliente | Cliente |
-
-### Compra
-
-| Campo | Tipo |
-|---------|---------|
-| id | Long |
-| dataCompra | LocalDate |
-| valorTotal | BigDecimal |
-| cliente | Cliente |
+| produtoInteresse | String |
+| senha | String |
+| tipo | String |
 
 ---
 
@@ -181,7 +154,7 @@ Produto
 
 ## 🚀 Endpoints Principais
 
-### Clientes
+### Usuários
 
 | Método | Endpoint |
 |----------|----------|
@@ -271,17 +244,21 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos de:
 
 ---
 
-## 👨‍💻 Desenvolvedor
+## 👨‍💻 Desenvolvedores
 
 ### Fernando Garcia
-
-📧 fernandogarcia98@hotmail.com
-
-💼 LinkedIn:
-www.linkedin.com/in/nandogarciadev
+### Iohana Maria
+### Jackeline Pessoa
+### Kaua Alves
+### Milena Fernandes
+### Vitoria Neris
 
 🐙 GitHub:
 https://github.com/nandogarciadev
+https://github.com/kauaalves7163-collab
+https://github.com/Iohana03
+https://github.com/MiFlow8
+https://github.com/carolinaneris-collab
 
 ---
 
